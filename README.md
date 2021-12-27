@@ -4,12 +4,12 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-<!-- <img src="NNNNNNNNNNNNN" width="400"> -->
+<img src="https://user-images.githubusercontent.com/29699356/147499811-ace02005-4083-4896-89d6-e6b63b5d0c20.png" width="400"> 
 
 
-<h2 align="center">____________________</h2>
+<h2 align="center">this is a getting started repo not intended to be used just for me to learn electron!</h2>
 
-<h4 align="center">________________________</h4>
+<h4 align="center">for more information on installing and getting started with electron see https://oransblog.com/electron-quick-start/ </h4>
 
 ---
 
